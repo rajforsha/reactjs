@@ -1,0 +1,2 @@
+props->read only property-> getters
+state-> can be modified.-> setters
